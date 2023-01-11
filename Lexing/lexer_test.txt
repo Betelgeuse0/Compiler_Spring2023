@@ -1,0 +1,33 @@
+//comment
+
+
+class KXI {
+    KXI () {
+
+    }
+    int method() {
+        return 0;
+    }
+}
+
+void kxi2022 main() {
+    bool cool = true;
+    int my_num = 395874;
+    char a = 'a';
+    string b = " hi there boy ";
+    kxiObj = new KXI();
+    kxiObj.method();
+
+    //comment test
+
+    if (cool == true) {
+        cout << my_num << '\n';
+    }
+    12357;
+
+    //comment test
+
+    class Wow {}
+}
+~
+^=
